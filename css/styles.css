@@ -1126,7 +1126,7 @@ padding: 40px;
 }
 
 .modal-form-checkbox:focus + .modal-form-checkbox-label::before {
-    background-color: var(--logo-text-color);
+    border-color: var(--logo-text-color);
 }
 
 .modal-form-link {
